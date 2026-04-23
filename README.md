@@ -12,5 +12,4 @@ I’m a passionate developer focused on Artificial Intelligence and Machine Lear
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=harshavardhandarekar&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=harshavardhandarekar&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=harshavardhandarekar&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
