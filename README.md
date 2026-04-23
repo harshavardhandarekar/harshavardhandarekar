@@ -1,5 +1,5 @@
 <hi>Hii 👋 I'm Harshavardhan Darekar</hi>
-
+---
 #💫 About Me:
 I’m a passionate developer focused on Artificial Intelligence and Machine Learning ...✨
 
